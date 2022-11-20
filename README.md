@@ -17,8 +17,8 @@ Backend Used: Flask,IBM Db2
 <li>Open another terminal and navigate to backend folder</li>
 <li>Create a virtual environment with **virtualenv venv**</li>
 <li>If virtualenv doesn't exist install it using **python -m pip install virtualenv**</li>
-<li><ul>
-        Now activate the virtual env:
+<li>Now activate the virtual env:
+    <ul>
         <li>Windows : ./venv/Scripts/Activate.ps1</li>
         <li>Linux/Ubuntu: source activate</li>
     </ul>
